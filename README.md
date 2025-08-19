@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Front-end`**
 
-Me chamo Gabriel Farias, tenho 17 anos e sou natural de Pernambuco. Concluí o ensino médio na EREM GFN. Atualmente, estou cursando o curso em v[ideo do Guatavo Guanabara. Sou apaixonado por tecnologia, matemática e resolver problemas seja através da educação ou pela progamação.
+Me chamo Gabriel Farias, tenho 17 anos e sou natural de Pernambuco. Sou apaixonado por tecnologia, matemática e resolver problemas seja através da educação ou pela progamação.
 ---
 
 ###  Linguagens e Tecnologias
